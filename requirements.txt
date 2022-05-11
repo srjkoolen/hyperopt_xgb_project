@@ -6,4 +6,7 @@ hyperopt==0.2.7
 numpy==1.21.5
 pandas==1.4.2
 scikit-learn==1.0.2
-xgboost==
+xgboost == 1.5.0
+flake8 == 4.0.1
+black
+pytest == 7.1.1
