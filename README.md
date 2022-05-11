@@ -5,6 +5,8 @@ The idea of this project is to build a framework for finding the optimum hyperpa
 
 As example: the sklearn iris dataset has been used to showcase the working principles of hyperopt.
 
+Documentation for hyperopt: http://hyperopt.github.io/hyperopt/
+Documentation for XGBoost: https://xgboost.readthedocs.io/en/stable/
 
 
 
