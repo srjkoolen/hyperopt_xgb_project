@@ -20,7 +20,7 @@ jobs:
         echo $CONDA/bin >> $GITHUB_PATH
     - name: Include $CONDA in $PATH
       run: |
-        echo ::add-path::$CONDA/bin
+        run: echo ::add-path::$CONDA/condabin
         
     - name: Install dependencies
       run: |
