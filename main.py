@@ -85,5 +85,5 @@ for idx, trial in enumerate(trials.trials):
     row.append(trial['result']['loss'])
     results.loc[idx] = row
 
-#results.to_csv('results.csv')
+results.to_csv('results.csv')
 
